@@ -1,0 +1,14 @@
+.getStarted
+{
+    background-color: #8da8c2;
+    color:black;
+    cursor: pointer;
+}
+.getStarted:hover
+{
+    background-color: lightgrey;
+}
+.getStarted:active
+{
+    background-color: lightgreen;
+}

@@ -1,0 +1,24 @@
+.center
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 10px;
+}
+.add-row
+{
+    text-align: center;
+    align-content: center;
+    background-color: #8da8c2;
+    color:black;
+    cursor: pointer;
+    width : 200px;
+}
+.add-row:hover
+{
+    background-color: lightgrey;
+}
+.add-row:active
+{
+    background-color: lightgreen;
+}

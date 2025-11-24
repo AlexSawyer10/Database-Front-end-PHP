@@ -1,0 +1,14 @@
+.register
+{
+    background-color: #8da8c2;
+    color:black;
+    cursor: pointer;
+}
+.register:hover
+{
+    background-color: lightgrey;
+}
+.register:active
+{
+    background-color: lightgreen;
+}

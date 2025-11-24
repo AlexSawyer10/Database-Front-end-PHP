@@ -1,0 +1,29 @@
+.product
+{
+    background-color: #8da8c2;
+    color:black;
+    cursor: pointer;
+}
+.product:hover
+{
+    background-color: lightgrey;
+}
+.product:active
+{
+    background-color: lightgreen;
+}
+
+.vendor
+{
+    background-color: #8da8c2;
+    color:black;
+    cursor: pointer;
+}
+.vendor:hover
+{
+    background-color: lightgrey;
+}
+.vendor:active
+{
+    background-color: lightgreen;
+}
